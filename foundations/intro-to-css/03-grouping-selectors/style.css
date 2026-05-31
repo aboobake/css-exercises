@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.elements#first {
+    background-color: black;
+    color: white;
+}
+.elements#second {
+    background-color: yellow;
+}
+
+.elements {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
